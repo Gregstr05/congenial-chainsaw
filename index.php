@@ -34,4 +34,3 @@ echo "<img src=\"https://www.postavy.cz/foto/walter-white-foto.jpg\"><br>";
 echo $user_ip;
 
 ?>
-s
